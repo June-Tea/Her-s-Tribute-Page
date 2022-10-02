@@ -84,10 +84,12 @@ li {
   border-radius: 5px
 }
 .youtube-link:hover {
+  text-decoration: none;
   background-color: #FF0000;
   color: #E7E7E7
 }
 .spotify-link:hover {
+  text-decoration: none;
   background-color: #1DB954;
   color: #E7E7E7
 }
